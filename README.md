@@ -17,5 +17,7 @@
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
+<hr/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nicenicegame&show_icons=true&theme=vue" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicenicegame&layout=compact&theme=vue&langs_count=8" />
