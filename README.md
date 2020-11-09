@@ -5,4 +5,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicenicegame&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicenicegame&repo=nicenicegame.github.io&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
