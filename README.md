@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying at Kasetsart University
 - 🌱 I’m currently learning React
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nicenicegame&show_icons=true&theme=vue)
+<img src="https://github-readme-stats.vercel.app/api?username=nicenicegame&show_icons=true&theme=vue" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicenicegame&layout=compact&theme=vue&langs_count=8)
 
