@@ -2,9 +2,7 @@
 
 #### 🔭 I’m currently studying at Kasetsart University
 
-<img style="height: 80px" src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
-
-#### Currently interested in android application development
+<img width="50" src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
 
 <hr/>
 
